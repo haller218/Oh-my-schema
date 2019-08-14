@@ -1,1 +1,1 @@
-# Oh-my-schema
+# Oh-my-scheme
